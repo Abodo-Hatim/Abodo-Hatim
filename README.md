@@ -1,5 +1,5 @@
 # 💫 Hi there , I'm Hatim: :wave: :blush:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🤝 I am looking for a remote job, Or an internship in web development, to in order to develop myself....<br>🌱 I’m currently learning "Laravel"<br>⚡ Fun fact "Javascript" will rule the world
 
 
 # 💻 Tech Stack:
